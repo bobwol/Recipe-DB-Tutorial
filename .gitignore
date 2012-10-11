@@ -11,6 +11,12 @@ wp-content/advanced-cache.php
 wp-content/wp-cache-config.php
 wp-content/cache/*
 wp-content/cache/supercache/*
+wp-content/themes/*
+!wp-content/themes/recipedb/
+wp-content/plugins/*
+!wp-content/plugins/recipedb.php
+wp-content/themes/twentyeleven/
+wp_content
 sitemap.xml
 sitemap.xml.gz
 readme.html
