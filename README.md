@@ -25,6 +25,6 @@ The theme
 -
 
 The recipe db theme is build as a child theme of the WordPress twentyeleven theme. Just activate it to get 
-a custom recipe category, ingredient template and recipe loop. Best way to test this, is adding some recipe 
-categories to your menus.
+a custom recipe category, ingredient template and recipe loop. Best way to test this, is creating some recipes
+categories, ingredients and recipes with custom quantities and adding the categories to your menus.
 
