@@ -1,6 +1,8 @@
 Recipe-DB-Tutorial
 ==================
 
+> Read a full featured tutorial on [my blog](http://www.danielauener.com/wordpress-as-a-framework-for-webapps/)
+
 Example code for my tutorial "Wordpress as a Framework for Webapps - Building a simple Recipe Database"
 This plugin/theme is not meant to be used in production. It implements a simple recipe database to 
 demonstrate the capabilities of WordPress as a framework for web-apps. It shows especially the use of
